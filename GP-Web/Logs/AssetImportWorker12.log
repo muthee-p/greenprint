@@ -1,0 +1,453 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16275 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+52586
+Successfully changed project path to: C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [33924] Host "[IP] 172.27.128.1 [Port] 0 [Flags] 2 [Guid] 60026544 [EditorId] 60026544 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A9OBSHJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [33924] Host "[IP] 172.27.128.1 [Port] 0 [Flags] 2 [Guid] 60026544 [EditorId] 60026544 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A9OBSHJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 20.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     8137 MB
+    Driver:   27.20.100.8854
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.051107 seconds.
+- Loaded All Assemblies, in  1.665 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 968 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.747 seconds
+Domain Reload Profiling: 4409ms
+	BeginReloadAssembly (581ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (153ms)
+	RebuildNativeTypeToScriptingClass (54ms)
+	initialDomainReloadingComplete (244ms)
+	LoadAllAssembliesAndSetupDomain (628ms)
+		LoadAssemblies (569ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (622ms)
+			TypeCache.Refresh (617ms)
+				TypeCache.ScanAssembly (566ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (2749ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2447ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1435ms)
+			SetLoadedEditorAssemblies (29ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (17ms)
+			ProcessInitializeOnLoadAttributes (774ms)
+			ProcessInitializeOnLoadMethodAttributes (191ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.686 seconds
+Refreshing native plugins compatible for Editor in 10.25 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.210 seconds
+Domain Reload Profiling: 4883ms
+	BeginReloadAssembly (591ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (27ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (80ms)
+	RebuildCommonClasses (157ms)
+	RebuildNativeTypeToScriptingClass (51ms)
+	initialDomainReloadingComplete (137ms)
+	LoadAllAssembliesAndSetupDomain (1737ms)
+		LoadAssemblies (1280ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (821ms)
+			TypeCache.Refresh (726ms)
+				TypeCache.ScanAssembly (665ms)
+			ScanForSourceGeneratedMonoScriptInfo (73ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2211ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1613ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (119ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (326ms)
+			ProcessInitializeOnLoadAttributes (1077ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.25 seconds
+Refreshing native plugins compatible for Editor in 26.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3446 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 52 unused Assets / (1.3 MB). Loaded Objects now: 3904.
+Memory consumption went from 152.8 MB to 151.5 MB.
+Total: 7.352000 ms (FindLiveObjects: 0.641900 ms CreateObjectMapping: 0.642700 ms MarkObjects: 5.420300 ms  DeleteObjects: 0.645000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1658755.906105 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_3.png
+  artifactKey: Guid(fbb7c6fda7f9dc34cb37a32605b86785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_3.png using Guid(fbb7c6fda7f9dc34cb37a32605b86785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9bc084991690e43550a374fffc53f5') in 0.376848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_17.png
+  artifactKey: Guid(a0fa3b0c8c0c1b943a3e6e97068160f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_17.png using Guid(a0fa3b0c8c0c1b943a3e6e97068160f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1a837c9de6ec95f77d540a6837dfaa') in 0.058169 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_22.png
+  artifactKey: Guid(a1f8af50fe4840b4c98f01010517e629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_22.png using Guid(a1f8af50fe4840b4c98f01010517e629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db058ac96f19316c3094c7bd7ebb40fb') in 0.060241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_29.png
+  artifactKey: Guid(4577abac906662341bc44dfaa1408c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_29.png using Guid(4577abac906662341bc44dfaa1408c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2fa867aa173a2b4b07275979d024c5') in 0.066253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_10.png
+  artifactKey: Guid(64deec4dc87ee90438a5fea2ba09f2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Media/MediaIcon_10.png using Guid(64deec4dc87ee90438a5fea2ba09f2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81efb8571d5c298a9fdf510c859d4985') in 0.062171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 10.810512 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Social/SocialIcon_2.png
+  artifactKey: Guid(79fabf077d6feef4eb7e59bf71227f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Social/SocialIcon_2.png using Guid(79fabf077d6feef4eb7e59bf71227f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d8cf97aefe62cff38d11157754c5433') in 0.144913 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 18.315603 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Location/LocationIcons_5.png
+  artifactKey: Guid(2d434b50ee1d52c428111149c240cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Location/LocationIcons_5.png using Guid(2d434b50ee1d52c428111149c240cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bb1ed8e4bd00dcd11dfc74717d27b4') in 0.167882 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.774932 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_3.png
+  artifactKey: Guid(b0c7b1065801f8d44852ba59bdb27f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_3.png using Guid(b0c7b1065801f8d44852ba59bdb27f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ee42e5881c680888283ef6f687e93a') in 0.162460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_7.png
+  artifactKey: Guid(f5e9c8ff7b3239349b1edb9673e2e3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_7.png using Guid(f5e9c8ff7b3239349b1edb9673e2e3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1639cbc90907063b4aa7603656ee439') in 0.160103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_12.png
+  artifactKey: Guid(452dadc4ea87d1d4ca95604befac3fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_12.png using Guid(452dadc4ea87d1d4ca95604befac3fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ae909b5b3eb6d3087443ffe41217ec') in 0.068534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_21.png
+  artifactKey: Guid(46dfd64c7da8e864398a63d5b9dfd5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_21.png using Guid(46dfd64c7da8e864398a63d5b9dfd5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658237fcf76d7dd048ec9493f93a0f73') in 0.060838 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_28.png
+  artifactKey: Guid(91f01fd10e674624f9df3b208705fa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_28.png using Guid(91f01fd10e674624f9df3b208705fa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4b2d974b7401368202b85c1b6f676b') in 0.068008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_16.png
+  artifactKey: Guid(9b62ec826def8344682abb90815ab449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Media/MediaIcon_16.png using Guid(9b62ec826def8344682abb90815ab449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3744f3fb03df9a5d37bd4ad61cf4a957') in 0.065654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.760297 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_4.png
+  artifactKey: Guid(f99def419f73e4342806d66d86a4bcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_4.png using Guid(f99def419f73e4342806d66d86a4bcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2424c1284dbba414b8244088de54f7') in 0.121080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_8.png
+  artifactKey: Guid(c6a3270678346d6448e4eab7443e662d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_8.png using Guid(c6a3270678346d6448e4eab7443e662d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98852505caea2310b52abe11e0121de') in 0.118453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_16.png
+  artifactKey: Guid(f96c699b19a4f4b4c89bbf21b2e59d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_16.png using Guid(f96c699b19a4f4b4c89bbf21b2e59d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ad9b7a306517599f17b8cea2eb7013') in 0.105016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_24.png
+  artifactKey: Guid(d17b41bac3d8b6f4aaccfaeaafecd472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_24.png using Guid(d17b41bac3d8b6f4aaccfaeaafecd472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab971f7e6efd765d2b764d41abfc988f') in 0.113224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_20.png
+  artifactKey: Guid(1ff236dc049354a40b5a5375ac80c5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Navigation/NaviIcon_20.png using Guid(1ff236dc049354a40b5a5375ac80c5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286934ab8f37b45d1607ba1343de0f57') in 0.061767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 559.533623 seconds.
+  path: Assets/_GP/Textures/2.png
+  artifactKey: Guid(9a3ae585bdce53b4387e697cff7d80d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Textures/2.png using Guid(9a3ae585bdce53b4387e697cff7d80d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4300e34c93eec3ab2d1cdf802d3e5733') in 0.153293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/_GP/Textures/GridBox_NewTex_Albedo.tga
+  artifactKey: Guid(edd7ee14f245a604a9ab37a5f164a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Textures/GridBox_NewTex_Albedo.tga using Guid(edd7ee14f245a604a9ab37a5f164a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb902ec7e349f3457e51fba969e6c912') in 0.137526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 19.190629 seconds.
+  path: Assets/_GP/Scenes/Welcome_to_The_Greenprint__1_-removebg-preview.png
+  artifactKey: Guid(afb205b328664f848a6041950bfe6738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Scenes/Welcome_to_The_Greenprint__1_-removebg-preview.png using Guid(afb205b328664f848a6041950bfe6738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0e6754fef0fe3f54087d5081d553bd') in 0.059234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 124.999830 seconds.
+  path: Assets/_GP/Scenes/Welcome_to_The_Greenprint__1_-removebg-preview (1).png
+  artifactKey: Guid(d805b5f8b104cf44b836d6f83f2414a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Scenes/Welcome_to_The_Greenprint__1_-removebg-preview (1).png using Guid(d805b5f8b104cf44b836d6f83f2414a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e1623162ac13bc83c4268b33f7d2e0') in 0.061844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 231.953178 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/8666757_lock_security_icon.png
+  artifactKey: Guid(463eff8e812555048ab888f5d4c30d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/8666757_lock_security_icon.png using Guid(463eff8e812555048ab888f5d4c30d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abc4c8942168f8c130fe559845bd2d86') in 0.056030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 21.706240 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App
+  artifactKey: Guid(82b4d7d24ba3a430e91f49bfaf6cad07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App using Guid(82b4d7d24ba3a430e91f49bfaf6cad07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1db0b7a3bf56e094879132bd327742') in 0.002619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 208.022714 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/211855_locked_icon.png
+  artifactKey: Guid(c7af484514a685446aea85a35156895f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/211855_locked_icon.png using Guid(c7af484514a685446aea85a35156895f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab27a46d5ad2f19a94ad0a6a3bfc91d4') in 0.051887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 300.011672 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_4.png
+  artifactKey: Guid(7828677d07d48496dbed40ea8b41239b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_4.png using Guid(7828677d07d48496dbed40ea8b41239b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5b665dc4a6f9e87c0b2496f511b186') in 0.146427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.018043 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_6.png
+  artifactKey: Guid(9cba1d92cfc9f4d4e8bc13f153fb024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_6.png using Guid(9cba1d92cfc9f4d4e8bc13f153fb024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a08f18ab97621e331c750f849c7f381') in 0.086350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004732 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_9.png
+  artifactKey: Guid(6f0585d78f4714954a785e193852cc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_9.png using Guid(6f0585d78f4714954a785e193852cc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112c63bbdef605d9d6013b28d0fa9021') in 0.063734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_24.png
+  artifactKey: Guid(dce42e425314e4303a9eb1138cbab8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_24.png using Guid(dce42e425314e4303a9eb1138cbab8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5971728bc0638968c3ee30bcceed8d57') in 0.064128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_7.png
+  artifactKey: Guid(e7eb2a1bac04041e8a0e342bbef2d224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_7.png using Guid(e7eb2a1bac04041e8a0e342bbef2d224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ac2eb0d349517ec76fac0405e4d421') in 0.062411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_11.png
+  artifactKey: Guid(c756f950b859a4efb94c5e12c176123c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_11.png using Guid(c756f950b859a4efb94c5e12c176123c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865fff6757ee2f0deab7bf29174368f7') in 0.053894 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_26.png
+  artifactKey: Guid(b313d0942c189431c8515e2ae9c3ca6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_26.png using Guid(b313d0942c189431c8515e2ae9c3ca6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1a67fafecffd3b6ca683023165da68') in 0.050042 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_22.png
+  artifactKey: Guid(180b1dc4314cb489e84c2cd4b3c917f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/Navigation/NaviIcon_22.png using Guid(180b1dc4314cb489e84c2cd4b3c917f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6484e575bdf5db23629bace344e0bc19') in 0.052224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

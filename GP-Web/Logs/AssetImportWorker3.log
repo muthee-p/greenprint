@@ -1,0 +1,279 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16275 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52586
+Successfully changed project path to: C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17896] Host "[IP] 172.27.128.1 [Port] 0 [Flags] 2 [Guid] 4075930327 [EditorId] 4075930327 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A9OBSHJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [17896] Host "[IP] 172.27.128.1 [Port] 0 [Flags] 2 [Guid] 4075930327 [EditorId] 4075930327 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A9OBSHJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 265.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     8137 MB
+    Driver:   27.20.100.8854
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.034963 seconds.
+- Loaded All Assemblies, in  1.100 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 876 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.868 seconds
+Domain Reload Profiling: 2962ms
+	BeginReloadAssembly (322ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (110ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (183ms)
+	LoadAllAssembliesAndSetupDomain (444ms)
+		LoadAssemblies (317ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (437ms)
+			TypeCache.Refresh (431ms)
+				TypeCache.ScanAssembly (394ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1869ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1694ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1208ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (309ms)
+			ProcessInitializeOnLoadMethodAttributes (160ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.014 seconds
+Refreshing native plugins compatible for Editor in 9.56 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.715 seconds
+Domain Reload Profiling: 3718ms
+	BeginReloadAssembly (443ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (107ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (124ms)
+	LoadAllAssembliesAndSetupDomain (1295ms)
+		LoadAssemblies (943ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (628ms)
+			TypeCache.Refresh (558ms)
+				TypeCache.ScanAssembly (512ms)
+			ScanForSourceGeneratedMonoScriptInfo (51ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1716ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1266ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (76ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (192ms)
+			ProcessInitializeOnLoadAttributes (867ms)
+			ProcessInitializeOnLoadMethodAttributes (94ms)
+			AfterProcessingInitializeOnLoad (25ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+database is locked
+Failed to delete database file Library/ShaderCache.db
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 14.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3446 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 52 unused Assets / (1.3 MB). Loaded Objects now: 3904.
+Memory consumption went from 152.5 MB to 151.2 MB.
+Total: 10.381600 ms (FindLiveObjects: 0.570300 ms CreateObjectMapping: 0.728300 ms MarkObjects: 8.331700 ms  DeleteObjects: 0.749000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1653779.669296 seconds.
+  path: Assets/_GP/Materials/PlayArea.mat
+  artifactKey: Guid(16cfe03fd1522f44abb277e70d3bb0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Materials/PlayArea.mat using Guid(16cfe03fd1522f44abb277e70d3bb0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8783f2ea193b5826e8924fefe40a65b') in 0.264831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_8.png
+  artifactKey: Guid(77c85ba225b9c11419bd335565a46bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_8.png using Guid(77c85ba225b9c11419bd335565a46bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28e0abbff6f5a33fab21c679f7ae5344') in 0.110610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/_GP/Materials/Red.mat
+  artifactKey: Guid(b0274931366756944a24d17f122586f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Materials/Red.mat using Guid(b0274931366756944a24d17f122586f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ba312386693493532942d1ff3bf2f7') in 0.747102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/_GP/Materials/Teal.mat
+  artifactKey: Guid(5fdbd23830434aa4d9053cef741150bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Materials/Teal.mat using Guid(5fdbd23830434aa4d9053cef741150bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d40ab71e22de0f1c5669c90f12700e') in 0.048143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001331 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_1.png
+  artifactKey: Guid(c14f8950e1c5dee4099dd68de96014b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_1.png using Guid(c14f8950e1c5dee4099dd68de96014b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6bf9575b86568f1cf6f9fee94621a6a') in 0.072642 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_GP/Presets/Shelter.asset
+  artifactKey: Guid(b680de8ece660cd4bab77783bb213873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Presets/Shelter.asset using Guid(b680de8ece660cd4bab77783bb213873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd153d62da1143081296996cf4c3c037b') in 0.021288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/_GP/Materials/Transparent Green.mat
+  artifactKey: Guid(a70f8c098dd9cd04897cbe4f182d1f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Materials/Transparent Green.mat using Guid(a70f8c098dd9cd04897cbe4f182d1f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bbe87521bca6c3f81de612a123352b') in 0.056327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_GP/Prefabs/Block Food.prefab
+  artifactKey: Guid(82a5494919bde5f4481383cd81169e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Prefabs/Block Food.prefab using Guid(82a5494919bde5f4481383cd81169e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0aa1b5089ae24f78efff06a9f85b63c') in 0.082850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_25.png
+  artifactKey: Guid(d67084258bcb9bb40b1eebc6c2629a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_25.png using Guid(d67084258bcb9bb40b1eebc6c2629a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe38dcb1d47a4ecd2a74a002cd459bff') in 0.104678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_26.png
+  artifactKey: Guid(61d019fa53a713141a6d38c76bb0a638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_26.png using Guid(61d019fa53a713141a6d38c76bb0a638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048146bd79edb850f629ab362311de6e') in 0.085385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_20.png
+  artifactKey: Guid(97a54fc8182433741b9c60805404709f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_20.png using Guid(97a54fc8182433741b9c60805404709f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c375520a92f8019f0c7bfdff7f1af719') in 0.059295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

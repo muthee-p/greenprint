@@ -1,0 +1,949 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16275 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+52586
+Successfully changed project path to: C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15560] Host "[IP] 172.27.128.1 [Port] 0 [Flags] 2 [Guid] 2758659298 [EditorId] 2758659298 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A9OBSHJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15560] Host "[IP] 172.27.128.1 [Port] 0 [Flags] 2 [Guid] 2758659298 [EditorId] 2758659298 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A9OBSHJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 264.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Max Musau/Desktop/Create-The-Greenprint-main (1)/Create-The-Greenprint-main/GP-Web/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     8137 MB
+    Driver:   27.20.100.8854
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.036502 seconds.
+- Loaded All Assemblies, in  1.110 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 930 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.881 seconds
+Domain Reload Profiling: 2985ms
+	BeginReloadAssembly (318ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (107ms)
+	RebuildNativeTypeToScriptingClass (38ms)
+	initialDomainReloadingComplete (192ms)
+	LoadAllAssembliesAndSetupDomain (448ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (442ms)
+			TypeCache.Refresh (438ms)
+				TypeCache.ScanAssembly (401ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1882ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1714ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1243ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (142ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.978 seconds
+Refreshing native plugins compatible for Editor in 9.71 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.704 seconds
+Domain Reload Profiling: 3672ms
+	BeginReloadAssembly (439ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (104ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (121ms)
+	LoadAllAssembliesAndSetupDomain (1270ms)
+		LoadAssemblies (926ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (608ms)
+			TypeCache.Refresh (538ms)
+				TypeCache.ScanAssembly (490ms)
+			ScanForSourceGeneratedMonoScriptInfo (53ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1705ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1254ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (77ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (192ms)
+			ProcessInitializeOnLoadAttributes (861ms)
+			ProcessInitializeOnLoadMethodAttributes (87ms)
+			AfterProcessingInitializeOnLoad (26ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 13.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3446 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 52 unused Assets / (1.3 MB). Loaded Objects now: 3904.
+Memory consumption went from 152.5 MB to 151.2 MB.
+Total: 10.622100 ms (FindLiveObjects: 0.671200 ms CreateObjectMapping: 0.705100 ms MarkObjects: 8.622400 ms  DeleteObjects: 0.621500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1653779.665066 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_21.png
+  artifactKey: Guid(32426df042696e64a87d755415a78934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_21.png using Guid(32426df042696e64a87d755415a78934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e27a22e95a5cd4f283718371a68300') in 0.197629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_23.png
+  artifactKey: Guid(94b92f721d5703d4ab87bb915d746aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_23.png using Guid(94b92f721d5703d4ab87bb915d746aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fbaa760f23d0b92c1d983eb77aee96') in 0.071543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_19.png
+  artifactKey: Guid(7efe72ca47f9b8340b3d32f83ab7bd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_19.png using Guid(7efe72ca47f9b8340b3d32f83ab7bd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d873cce670c8cb5ae8eeba03b17e212') in 0.070550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/_GP/Prefabs/Block Water.prefab
+  artifactKey: Guid(a1859b51c0e69a44fad5d4e46cafcb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Prefabs/Block Water.prefab using Guid(a1859b51c0e69a44fad5d4e46cafcb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21317fd96709e893c35b941173a458f1') in 0.856315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_14.png
+  artifactKey: Guid(415b38e3712d462448a3014674a41592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_14.png using Guid(415b38e3712d462448a3014674a41592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47efb63e58245946d6d7700da350167a') in 0.063617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/_GP/Materials/Purple.mat
+  artifactKey: Guid(2ea9237f4c866d54fb55153163c36798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GP/Materials/Purple.mat using Guid(2ea9237f4c866d54fb55153163c36798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6435bc9a7751d3820f177f18530779') in 0.092435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_12.png
+  artifactKey: Guid(db1f809d8edb33140abb615910d8c472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_12.png using Guid(db1f809d8edb33140abb615910d8c472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc91b0df171009acd4831540cac381ca') in 0.064990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_2.png
+  artifactKey: Guid(a734bfff9a1f8754895152172bc40e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_2.png using Guid(a734bfff9a1f8754895152172bc40e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e93d42671f98659df91138a3608261b') in 0.115720 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_9.png
+  artifactKey: Guid(8f56fd1bd9d976640b1b0a0a879fbdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_9.png using Guid(8f56fd1bd9d976640b1b0a0a879fbdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b04fd5c00b2a46d8cbcbb076ea4ec94') in 0.074078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_18.png
+  artifactKey: Guid(34c60bc01d9a00b4aaf9a0abecdf0648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/Navigation/NaviIcon_18.png using Guid(34c60bc01d9a00b4aaf9a0abecdf0648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a2179bfe658c9a901d976eab8a9b81') in 0.065224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 451.298389 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_1.png
+  artifactKey: Guid(90327464f60331d4fa9b4dd35b38473d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_1.png using Guid(90327464f60331d4fa9b4dd35b38473d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4299af9ac7ea61bb6ebf4ca8735939') in 0.143116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_3.png
+  artifactKey: Guid(79f91235cde38a74487d7e3395f7452c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_3.png using Guid(79f91235cde38a74487d7e3395f7452c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95057b31f110e4c6c159c8925908afa6') in 0.091501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_2.png
+  artifactKey: Guid(62ed1264a6f32f741abd1374d341d46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_2.png using Guid(62ed1264a6f32f741abd1374d341d46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee3272d548b32a7ff346da70e34e207') in 0.063867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_2.png
+  artifactKey: Guid(55d0890140953a54483e981f56626f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_2.png using Guid(55d0890140953a54483e981f56626f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92104b593f45de3773925739073b82af') in 0.068328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.949734 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_3.png
+  artifactKey: Guid(268f3c8c797b44d4485475f62ee3a943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_3.png using Guid(268f3c8c797b44d4485475f62ee3a943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a67b0cd9e7b393a7f9fe522e337bd02') in 0.087350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_4.png
+  artifactKey: Guid(3e2595f58e186d34fbc56e7d414277d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_4.png using Guid(3e2595f58e186d34fbc56e7d414277d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29c24df88f20c1671d5b76f6bfa386f') in 0.061212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.226673 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_5.png
+  artifactKey: Guid(f5cebf8f9c4d34daa9eee46a52068072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_5.png using Guid(f5cebf8f9c4d34daa9eee46a52068072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8ae74832bcd8188332786b8d5f6451') in 0.078915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_5.png
+  artifactKey: Guid(a72ddbd2e74a73947a80fbf19253f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_5.png using Guid(a72ddbd2e74a73947a80fbf19253f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4729302e1b92071915f675b335e7e09d') in 0.064072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_5.png
+  artifactKey: Guid(29cf420030b9f8e4bb80822c98f7fdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_5.png using Guid(29cf420030b9f8e4bb80822c98f7fdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b0002bed958a6a499442912c5ddd20') in 0.065889 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.135622 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_7.png
+  artifactKey: Guid(b663b94e60f362e44b52f500a29a57b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_7.png using Guid(b663b94e60f362e44b52f500a29a57b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d16040a94c4819f64ba757e26ea6eca') in 0.059583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_7.png
+  artifactKey: Guid(823fb10d20aa84ce1902686b54077387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_7.png using Guid(823fb10d20aa84ce1902686b54077387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2efad2831e8547a7bd2678bcb8953d') in 0.062351 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_8.png
+  artifactKey: Guid(6d224c8e89bbc7843a05db13cd643898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_8.png using Guid(6d224c8e89bbc7843a05db13cd643898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8600b742b8ac90dac02dd2bcb30d9715') in 0.060708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.170142 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_9.png
+  artifactKey: Guid(9e28313b1047aa842b1f1d52f6a28cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_9.png using Guid(9e28313b1047aa842b1f1d52f6a28cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f68d07859ab2892c2f570f9df6fdbc') in 0.080181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_9.png
+  artifactKey: Guid(a292d6fcc5a6ff84b926c8681ea3880a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/App/AppIcons_9.png using Guid(a292d6fcc5a6ff84b926c8681ea3880a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45968632f3fb72716bd2c59a2fbe66b') in 0.062156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_10.png
+  artifactKey: Guid(ad330f616c7284e4e973160159d46deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_10.png using Guid(ad330f616c7284e4e973160159d46deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4fade1a5b80480a52f4392f7998bb3') in 0.057025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.118858 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_11.png
+  artifactKey: Guid(245f1e50522a348b4bbfbb560c7a9876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@1x-assets/App/AppIcons_11.png using Guid(245f1e50522a348b4bbfbb560c7a9876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd051730527f2e2956cbf52f9ec9a8d1c') in 0.077058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_11.png
+  artifactKey: Guid(f3c908c5a410b3d4aa84f6f433bab7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_11.png using Guid(f3c908c5a410b3d4aa84f6f433bab7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f1659e32c3b832d2d60b99178c03ac') in 0.061981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_12.png
+  artifactKey: Guid(3a75bce1bca12e44eb4bf4603016a802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@2x-assets/App/AppIcons_12.png using Guid(3a75bce1bca12e44eb4bf4603016a802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd478a47ea846cfdd3bb8ad1da7989e3a') in 0.054958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.137592 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Social/beffio_logo.png
+  artifactKey: Guid(71c52fe04542c8e4483550805cd1bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Icons/Icons@4x-assets/Social/beffio_logo.png using Guid(71c52fe04542c8e4483550805cd1bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1261875949ed22ecae49a4fc97c47632') in 0.093694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigMiddleSize_Stroke_1px.png
+  artifactKey: Guid(de427059682a2ec4fa69409ec7ffb766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigMiddleSize_Stroke_1px.png using Guid(de427059682a2ec4fa69409ec7ffb766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad7e06acd4881a2e1a86edcc199a4bf') in 0.091363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigMiddleSize_Stroke_30px.png
+  artifactKey: Guid(1aaf05d53175d844697b15ca225dcb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigMiddleSize_Stroke_30px.png using Guid(1aaf05d53175d844697b15ca225dcb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3298244b63b750cd2be87276eb862571') in 0.063328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigMiddleSize_Fill.png
+  artifactKey: Guid(260f8a16ed1829947848ebf48d239b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigMiddleSize_Fill.png using Guid(260f8a16ed1829947848ebf48d239b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc68550679fc5a8145bdcfe7448b6e13') in 0.060521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.062281 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_1px.png
+  artifactKey: Guid(ef9d3590d9cb7774e929e19e187dea6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_1px.png using Guid(ef9d3590d9cb7774e929e19e187dea6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4ae47e53ceab213d32d4eeadfd53f3') in 0.067469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_16px.png
+  artifactKey: Guid(f0ac0be29e1d33844b94551b5789137b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_16px.png using Guid(f0ac0be29e1d33844b94551b5789137b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ac59f35de161e93ccd6c9c08d9f1c90') in 0.079918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.149592 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_60px.png
+  artifactKey: Guid(6502ae6a3c6bc0243976297c12fbcd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_60px.png using Guid(6502ae6a3c6bc0243976297c12fbcd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413f6d9882452b79f7a3aea9d206e1de') in 0.101103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_150px.png
+  artifactKey: Guid(69b9aa8562f481943a0d52c310a8221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/BigSize_Stroke_150px.png using Guid(69b9aa8562f481943a0d52c310a8221a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018c91c47e6af43f34f126d9de52ca5b') in 0.106374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Photography ┬⌐ beffio Tom Lassota/California Fort Bragg Sunset  - ┬⌐ beffio Tom Lassota.jpg
+  artifactKey: Guid(b072753c3041be543a90d3fb600b6fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Photography ┬⌐ beffio Tom Lassota/California Fort Bragg Sunset  - ┬⌐ beffio Tom Lassota.jpg using Guid(b072753c3041be543a90d3fb600b6fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5285e5dc06da6791388962a8a61cedd') in 0.337620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigMiddleSize_Stroke_1px.png
+  artifactKey: Guid(31da11fc836a37449a9648cd6308aaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigMiddleSize_Stroke_1px.png using Guid(31da11fc836a37449a9648cd6308aaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477410380df4d01eb2901996fd065c54') in 0.132731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigMiddleSize_Stroke_30px.png
+  artifactKey: Guid(5edfdb1318310614985b8de7ab9b784c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigMiddleSize_Stroke_30px.png using Guid(5edfdb1318310614985b8de7ab9b784c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6653f06651584dbbc358d07b3ec6435e') in 0.075424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Fill.png
+  artifactKey: Guid(86c50c842fc5e5548b6a6e876c645ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Fill.png using Guid(86c50c842fc5e5548b6a6e876c645ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8b00b4f319b843136a3f78a800f761') in 0.064952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Stroke_6px.png
+  artifactKey: Guid(73ff9b0cba4d93a41b8b2f045a8d52c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Stroke_6px.png using Guid(73ff9b0cba4d93a41b8b2f045a8d52c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37306a51f9db23c63732253c7740fd2') in 0.079641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003297 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Stroke_60px.png
+  artifactKey: Guid(c6157dc9c292b704b93e50622ca4095f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Stroke_60px.png using Guid(c6157dc9c292b704b93e50622ca4095f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa66aad9bbf311e958bc45301344ec2') in 0.071108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.096041 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Stroke_150px.png
+  artifactKey: Guid(8adcf37a3de5f404cbafacc2a1a1b522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleBigSize_Stroke_150px.png using Guid(8adcf37a3de5f404cbafacc2a1a1b522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50cc4a51a71986277083bf991291d0b') in 0.077262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleMiddleSize_Stroke_4px.png
+  artifactKey: Guid(4a06b734c1424ef43acedc3bd3a99e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleMiddleSize_Stroke_4px.png using Guid(4a06b734c1424ef43acedc3bd3a99e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896eb8045b54bf09c002823639307173') in 0.080202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.992722 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleMiddleSize_Stroke_8px.png
+  artifactKey: Guid(27f19b64cfddeb647b52409447d7ed41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleMiddleSize_Stroke_8px.png using Guid(27f19b64cfddeb647b52409447d7ed41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beae3d18f93d67592581813d66837f5b') in 0.058319 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleMiddleSize_Stroke_16px.png
+  artifactKey: Guid(98538dfbfe7397042a9e1f6def256ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleMiddleSize_Stroke_16px.png using Guid(98538dfbfe7397042a9e1f6def256ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ac7bfae411425134f34aaf7ac7555a') in 0.055843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Fill.png
+  artifactKey: Guid(6bc1b60b5f45dad4ab2d31acae787385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Fill.png using Guid(6bc1b60b5f45dad4ab2d31acae787385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f5aac59c674c98a418c2d30430fba3') in 0.060960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.167482 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_1px.png
+  artifactKey: Guid(8c4309ce1108018429d5aed304d3b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_1px.png using Guid(8c4309ce1108018429d5aed304d3b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664d37c088cef8239e16eeacd3a79019') in 0.084029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Stroke_2px.png
+  artifactKey: Guid(3895213da850df946b01fd8923a17b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Stroke_2px.png using Guid(3895213da850df946b01fd8923a17b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8d6a9fc60ac64a7e3e55ca41728f50') in 0.078737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_2px.png
+  artifactKey: Guid(eb91481f999ac61459b988ebb32f4d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_2px.png using Guid(eb91481f999ac61459b988ebb32f4d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eece4fa9f47a9ec5aef69b6db268638') in 0.057272 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.086055 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_6px.png
+  artifactKey: Guid(e54426690f7fe4b45a912e560184a5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_6px.png using Guid(e54426690f7fe4b45a912e560184a5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e930c8e94a42528c653052d90eeccf') in 0.065479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Stroke_10px.png
+  artifactKey: Guid(377a4d562faa09d48bca2591c4304545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Stroke_10px.png using Guid(377a4d562faa09d48bca2591c4304545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c11ef566ec7fb4384419aefbbbd8e4') in 0.060625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_12px.png
+  artifactKey: Guid(95c5c61cf6bf4484a94d6481857e5858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_12px.png using Guid(95c5c61cf6bf4484a94d6481857e5858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e177d9d11eeaaf72e90afbba8036b59') in 0.051873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.007262 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_16px.png
+  artifactKey: Guid(a569d0a47a7a35d4291ac830728aecce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/Circles/CircleSmall_Stroke_16px.png using Guid(a569d0a47a7a35d4291ac830728aecce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0996d36c87a96fbe4f73202c65f11030') in 0.054593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.090696 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Stroke_20px.png
+  artifactKey: Guid(52b96a6745bdfed4f8915a632eca422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/Circles/CircleSmall_Stroke_20px.png using Guid(52b96a6745bdfed4f8915a632eca422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01e5d8582034f6862473a5d228f0a8c') in 0.061888 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Fill.png
+  artifactKey: Guid(1af7ff7a209b19642abf272e9a021a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Fill.png using Guid(1af7ff7a209b19642abf272e9a021a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4800db83963b1378bfe249eeb288f94') in 0.063713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.183049 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_1px.png
+  artifactKey: Guid(ef4fd71bbf687d8488b474e83d25f321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_1px.png using Guid(ef4fd71bbf687d8488b474e83d25f321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd7c8d2d354fff4c1f4c9ee969a72dd') in 0.086390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_4px.png
+  artifactKey: Guid(e4afe5b63f7cb084c8838f043333f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_4px.png using Guid(e4afe5b63f7cb084c8838f043333f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1607d142015e6b8e56c3e307c83c9e') in 0.088493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_6px.png
+  artifactKey: Guid(8cb84d042831e56469f2bbb35369aef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_6px.png using Guid(8cb84d042831e56469f2bbb35369aef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eafb1ca4a0b78bcdbbb132f0aee3991') in 0.099672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_6px.png
+  artifactKey: Guid(c65382494e426074f9f95165840154f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_6px.png using Guid(c65382494e426074f9f95165840154f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a354665b65a4145b3247200704952bb') in 0.077519 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.038604 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_10px.png
+  artifactKey: Guid(c4f365291f5513c4f90ea007ba10a8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_10px.png using Guid(c4f365291f5513c4f90ea007ba10a8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cebbe68746016031d190a57e89f73ebf') in 0.057671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.015825 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_12px.png
+  artifactKey: Guid(fa6a8182a8392094fab8081d72eeebbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_12px.png using Guid(fa6a8182a8392094fab8081d72eeebbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333f4fe68a0e379806110cb5edbf5e3d') in 0.058113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_16px.png
+  artifactKey: Guid(2773155223cbef24d96575fed390ed01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_16px.png using Guid(2773155223cbef24d96575fed390ed01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6397ed1e51499918711b0df1c564f986') in 0.057044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.083791 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_20px.png
+  artifactKey: Guid(cf2818319a56e6348a31aeef1e0c2406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_0px_Stroke_20px.png using Guid(cf2818319a56e6348a31aeef1e0c2406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367a11a0079c20d737974c51f5d194fe') in 0.078927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_1px.png
+  artifactKey: Guid(75553ad389219684e89583eb717e9ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_1px.png using Guid(75553ad389219684e89583eb717e9ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce43958c49eee7f8f0fc51eb9fe03dd') in 0.086826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Fill.png
+  artifactKey: Guid(05805fcba8aa2114589ca721f320fe3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Fill.png using Guid(05805fcba8aa2114589ca721f320fe3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ef74f2402cc6e93495af10b2ae3bcb') in 0.061694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_1px.png
+  artifactKey: Guid(307729759edf28f43b1c55d998b697c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_1px.png using Guid(307729759edf28f43b1c55d998b697c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20046cf589ac0b7bc990f77df99784b5') in 0.060179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.082931 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_4px.png
+  artifactKey: Guid(3beb79b12f495e543896d778f5635065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_4px.png using Guid(3beb79b12f495e543896d778f5635065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b672abd4a6f1dc0a5725d6965e6b03f8') in 0.082226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_10px.png
+  artifactKey: Guid(ebbb76b170eb0a648a547e811b5313c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_10px.png using Guid(ebbb76b170eb0a648a547e811b5313c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e05290976c928ca3b9fb1d3cafb7525') in 0.077853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_6px.png
+  artifactKey: Guid(faf8ce7c0177eac4281f560e431fbfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_6px.png using Guid(faf8ce7c0177eac4281f560e431fbfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46febd43731a5ff7f65a8ffac5ff5699') in 0.054274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.076903 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_12px.png
+  artifactKey: Guid(6867993c7f77e31448d9f080d342557c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_12px.png using Guid(6867993c7f77e31448d9f080d342557c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a69f016aec0697bb0f964272cad04a') in 0.062786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_20px.png
+  artifactKey: Guid(6505377f4b145ca4bbc4033604170a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_20px.png using Guid(6505377f4b145ca4bbc4033604170a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e11c03400fa42ced025923aae8f1b7') in 0.063429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_16px.png
+  artifactKey: Guid(94fe4a51d718afa4eadad5040e977b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_1px_Stroke_16px.png using Guid(94fe4a51d718afa4eadad5040e977b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44635ee3cba7b555e3af25ce4e574dd9') in 0.063411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.141467 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Fill.png
+  artifactKey: Guid(00292e5d44a244c4180bdaecec8dc7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Fill.png using Guid(00292e5d44a244c4180bdaecec8dc7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5cccfd2e41d8ddc7592b4612000483') in 0.085849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_2px.png
+  artifactKey: Guid(727945bea9e83bf4aafee3480db0a8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_2px.png using Guid(727945bea9e83bf4aafee3480db0a8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623823439c172baac35054dfbf6f4fde') in 0.061612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_1px.png
+  artifactKey: Guid(c3a70562422403f4ea681a7fb7403218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_1px.png using Guid(c3a70562422403f4ea681a7fb7403218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ba84fe3a28205a424a90c758bd1d1b') in 0.058602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.096215 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_4px.png
+  artifactKey: Guid(77f66dd4aee799a4fbf2a3dfe4eb3379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_4px.png using Guid(77f66dd4aee799a4fbf2a3dfe4eb3379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0720d63eaf65ab0a73981e706e9936b') in 0.053460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_10px.png
+  artifactKey: Guid(56d985748ed121a4eb3338acbf967c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_10px.png using Guid(56d985748ed121a4eb3338acbf967c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf53a6f586aa6c2db97d9c70c8a2320e') in 0.056033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_12px.png
+  artifactKey: Guid(f95f2513a929b6749bb7578a10a1d8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_12px.png using Guid(f95f2513a929b6749bb7578a10a1d8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8217a8fa30e49bc679295d5725070e8') in 0.055043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_12px.png
+  artifactKey: Guid(d681024aab5a3e242bdc8a2c9b3f75c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_12px.png using Guid(d681024aab5a3e242bdc8a2c9b3f75c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91425dc934f521d70b1bef7c6a4d5ca') in 0.061170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.126339 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_16px.png
+  artifactKey: Guid(dfc131f0aed85ed46973a8e106965bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_16px.png using Guid(dfc131f0aed85ed46973a8e106965bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd043f2234f99eb57be319ac65c194c7') in 0.083942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_20px.png
+  artifactKey: Guid(08701aba3a90f0144a9c9842b3b3f0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_6px_Stroke_20px.png using Guid(08701aba3a90f0144a9c9842b3b3f0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d56c73e9a91e40c07498e653552f65b') in 0.092899 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Fill.png
+  artifactKey: Guid(2f13631357c91e54e9ce44af3c99dbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Fill.png using Guid(2f13631357c91e54e9ce44af3c99dbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0ffdd79a8461153174ff913e62b729') in 0.068791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.091797 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_1px.png
+  artifactKey: Guid(b6fc46d7e4f6171488ef3778597dd5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_1px.png using Guid(b6fc46d7e4f6171488ef3778597dd5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb241e12bc9f6ea53132f9c9ce3a901') in 0.161118 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_2px.png
+  artifactKey: Guid(63088414f8d66df408a107fc687bae37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_2px.png using Guid(63088414f8d66df408a107fc687bae37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50a1a4a0b084d075f5d4b8835554481') in 0.077564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_4px.png
+  artifactKey: Guid(f1e87a1f0e9620240aac853c5b3c3f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_4px.png using Guid(f1e87a1f0e9620240aac853c5b3c3f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8010114c2c7da62ff905c8c1a3ae5090') in 0.058200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.030329 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_6px.png
+  artifactKey: Guid(87ca5475c282e1146beeec93d4de7cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_6px.png using Guid(87ca5475c282e1146beeec93d4de7cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d44a8a871556dbb0f5cdfee4d86ac2b') in 0.057740 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003592 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_10px.png
+  artifactKey: Guid(b7d46e2998a8a164d88bb54eb04d090a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_10px.png using Guid(b7d46e2998a8a164d88bb54eb04d090a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea8510e0e7258b0aff977facf43a1b0') in 0.063052 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_12px.png
+  artifactKey: Guid(8218612080088c24abf483bcc480487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_12px.png using Guid(8218612080088c24abf483bcc480487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879b566600dc83efd73ea6e4bbf035ac') in 0.066521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.104014 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_16px.png
+  artifactKey: Guid(70871682881be5345b15771a1ccddb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_16px.png using Guid(70871682881be5345b15771a1ccddb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea60970f6009444334232164deba8b3') in 0.057864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_24px_Fill.png
+  artifactKey: Guid(9f149f0e86c53d843a72ce065e055f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@2x-assets/CornerPanels/CornerPanelRadius_24px_Fill.png using Guid(9f149f0e86c53d843a72ce065e055f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6933d4f0945cd479410c31fcbbaac5aa') in 0.066389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_20px.png
+  artifactKey: Guid(40a13d722a604774dbd4e65a09770502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_12px_Stroke_20px.png using Guid(40a13d722a604774dbd4e65a09770502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4032409585a5c7e90596ecf623f60aba') in 0.073187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.145317 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_24px_Stroke_2px.png
+  artifactKey: Guid(10d48090bdb5aa840bcaf9f09672b0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_24px_Stroke_2px.png using Guid(10d48090bdb5aa840bcaf9f09672b0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efeaf691125d4f660ca49c53aa63527') in 0.066127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_24px_Stroke_6px.png
+  artifactKey: Guid(149ad5777c7580a4b8a6b1810a830f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_24px_Stroke_6px.png using Guid(149ad5777c7580a4b8a6b1810a830f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90725d11367a7936297b493d549f5ee0') in 0.056419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.230831 seconds.
+  path: Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_24px_Stroke_12px.png
+  artifactKey: Guid(93855259888647144ac7330393702e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beffio/UI - BUILDER/Source Files/Panels/Panels@1x-assets/CornerPanels/CornerPanelRadius_24px_Stroke_12px.png using Guid(93855259888647144ac7330393702e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81717cc154e9b992425f8f602157724e') in 0.120616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
